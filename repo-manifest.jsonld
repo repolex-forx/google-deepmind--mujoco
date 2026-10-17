@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/mujoco/commit/651bae11c3c38efe483f033b4b7e869e7ce3f4ec",
       "git:hexsha": "651bae11c3c38efe483f033b4b7e869e7ce3f4ec",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/mujoco/commit/1f7eaae62e0cd45a71cf7a593fa5605720765167",
